@@ -13,7 +13,7 @@ This project explores predictive modelling using a student score dataset. The no
 * Generate predictions.
 * Evaluate model performance.
 
-## Tools & Technologies
+## Tools
 
 * Python
 * Jupyter Notebook
